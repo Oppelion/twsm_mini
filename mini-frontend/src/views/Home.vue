@@ -8,7 +8,7 @@
         <li>Email: <a href="mailto:tkjeld18@student.aau.dk">Tkjeld18@student.aau.dk</a></li>
         <li>Phone: <a href="tel:+4520770673">+45 20770673</a></li>
       </ul>
-      <p>Documentation for this website can be found on github <a href="insert git hub link">here</a></p>
+      <p>Documentation for this website can be found on github <a href="https://github.com/Oppelion/twsm_mini">here</a></p>
     </div>
     <div class="MainTopImage">
       <img src="SelfImage.PNG" />
